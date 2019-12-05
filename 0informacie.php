@@ -1,6 +1,5 @@
 <?php include 'init.php'; ?>
-<?php include 'en.php'; ?>
-<?php include 'sk.php'; ?>
+<?php include $_SESSION['lang'] == 'sk' ? 'sk.php' : 'en.php'; ?>
 <html>
  <head>
    <title>Projekt telefon</title>
@@ -8,14 +7,11 @@
    type="text/css" href="styles.css">
      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
  </head>
-<body background="pozadie.jpg">
+<body background="/images/pozadie.jpg">
   <?php include 'header_inc.php'; ?>
   <h1><center><?= $_SESSION['lang'] == 'sk' ? 'Základné informácie' : 'Basic info' ?></center></h1>
   <p>
   <?php echo $lang["H1_informacie"]?>
-
-
-
   </p>
   <table>
       <tr>
@@ -25,10 +21,7 @@
       </tr>
   </table>
   <p>
-  <?= $_SESSION['lang'] == 'sk' ? 'Model 6s je posledným na ktorom pracoval Steve Jobs pred svojou smrťou a pokladá sa za
-                                         najväčší úspech Applu.' :
-                                         'Model 6s was the last one that was worked on by Steve Jobs before his death and its considered the biggest Apple success.' ?>
-
+  <?php echo $lang["Informacie2"]?>
   </p>
   <table>
       <tr>
@@ -38,9 +31,9 @@
   </table>
   <table>
       <tr>
-          <td align="center"><img src="PRAHA1.jpg" width="100%"></td>
-          <td align="center"><img src="PRAHA2.jpg" width="100%"></td>
-          <td align="center"><img src="PRAHA 3.jpg" width="100%"></td>
+          <td align="center"><img src="/images/PRAHA1.jpg" width="100%"></td>
+          <td align="center"><img src="/images/PRAHA2.jpg" width="100%"></td>
+          <td align="center"><img src="/images/PRAHA 3.jpg" width="100%"></td>
       </tr>
   </table>
 

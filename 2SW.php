@@ -7,7 +7,7 @@
    type="text/css" href="styles.css">
      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
  </head>
-<body background="pozadie.jpg">
+<body background="/images/pozadie.jpg">
 <?php include 'header_inc.php'; ?>
   <div class "container2">
   <h1><center>Operačný systém, ťažná sila iPhonov</center></h1>

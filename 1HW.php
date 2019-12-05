@@ -7,10 +7,12 @@
    type="text/css" href="styles.css">
    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
  </head>
- <body background="pozadie.jpg">
+ <body background="/images/pozadie.jpg">
 <?php include 'header_inc.php'; ?>
   <p>
-  <?= $_SESSION['lang'] == 'sk' ? 'Vnútro je narozdiel od vonkajšieho dizajnu všetko nové. Použitý je nový chip Apple A9 ktorý
+  <?php echo $lang["HW1"]?>
+  <?= $_SESSION['lang'] == 'sk' ?
+  'Vnútro je narozdiel od vonkajšieho dizajnu všetko nové. Použitý je nový chip Apple A9 ktorý
                                    sa skladá z procesoru o 2jadrách a 1.85GHz, pohybového koprocesru M9 určeného pre
                                    spracovávanie GPS, krokomer, gyroskop a akcelerometru. Grafická časť pozostáva
                                    z PowerVR GT7600. Nižšie môžete vidieť presný rozpis hardwaru a v neskoršej sekcii porovnáme

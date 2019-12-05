@@ -6,7 +6,7 @@
    type="text/css" href="styles.css">
    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
  </head>
-<body background="pozadie.jpg">
+<body background="/images/pozadie.jpg">
 <?php include 'header_inc.php'; ?>
   <p>
     Telefon si už momentálne s cenovkou 280€ hravo poradí s Androidami v rovnakej cenovej kategorií.

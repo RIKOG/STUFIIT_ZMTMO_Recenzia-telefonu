@@ -7,7 +7,7 @@
    type="text/css" href="styles.css">
      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
  </head>
- <body background="pozadie.jpg">
+ <body background="/images/pozadie.jpg">
   <?php include 'header_inc.php'; ?>
     <div class "container2">
   <h1><center>Richard Gajdošík - iPhone 6s 64GB Silver</center></h1>

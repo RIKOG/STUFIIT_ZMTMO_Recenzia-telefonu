@@ -8,7 +8,7 @@
    type="text/css" href="styles.css">
    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
  </head>
-<body background="pozadie.jpg">
+<body background="/images/pozadie.jpg">
 <?php include 'header_inc.php'; ?>
   <h1><center>Moje meno je Richard Gajdošík a toto je blog o mojom telefone.</center></h1>
   <h2><center>Email: Rich.gajdosik@gmail.com</center></h2>

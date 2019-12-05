@@ -11,6 +11,6 @@ else if (isset($_GET['lang'])) {
 
     if($_GET['lang'] == "sk")
         $_SESSION['lang'] = "sk";
- $_SESSION['lang'] = $_GET['lang'] == 'sk' ? 'sk' : 'en';
+// $_SESSION['lang'] = $_GET['lang'] == 'sk' ? 'sk' : 'en';
 }
 ?>

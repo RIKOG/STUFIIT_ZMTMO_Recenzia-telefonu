@@ -7,7 +7,7 @@
    type="text/css" href="styles.css">
    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
  </head>
-<body background="pozadie.jpg">
+<body background="/images/pozadie.jpg">
 <?php include 'header_inc.php'; ?>
 <p>Nasledujúca ukážka zobrazuje použitie funkcie applepay ktorá kompletne nahrádza platobnú kartu.</p>
   <table><tr>

@@ -7,7 +7,7 @@
    type="text/css" href="styles.css">
    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
  </head>
-<body background="pozadie.jpg">
+<body background="/images/pozadie.jpg">
 <?php include 'header_inc.php'; ?>
 <p>
   3D-touch <br><br>Využívanie senoru snímania tlaku vyvinutého na obrazovku vďaka ktorej
@@ -50,8 +50,9 @@
 </p>
   <table><tr>
   <td align="center"><IMG SRC="/images/GIFPRAHA1.gif" width="100%"></td>
-    <td class ="zadanie"  width="35%" height="99%" >Livephotos<BR><BR>
-      Namiesto odfotenia klasickej fotky urobí aj automaticky krátke video do momentu odfotenia čím zlepšuje zážitok zo samotnej fotky.</td>
+    <td class ="zadanie"  width="35%" height="99%" >
+    Livephotos<BR><BR>
+    Namiesto odfotenia klasickej fotky urobí aj automaticky krátke video do momentu odfotenia čím zlepšuje zážitok zo samotnej fotky.</td>
   <td align="center"><IMG SRC="/images/GIFPRAHA2.gif" width="100%"></td>
   </tr></table>
 </body>
