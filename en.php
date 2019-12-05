@@ -10,12 +10,12 @@ $lang = array(
 
 "Informacie2" => "Model 6s was the last one that was worked on by Steve Jobs before his death and its considered the biggest Apple success.",
 
-"HW1" =>                                    "The insides are completely different apart from the same design as the iPhone 6. Theres new
+"HW1" => "The insides are completely different apart from the same design as the iPhone 6. Theres new
                                              chip Apple A9 made out of 2cores, 1.85GHz processor called Twister, M9 processor handling
                                              the GPS and the graphic processor called PowerVR GT7600. In the lower part you can see the exact hardware
                                              written in a table and in the next section we compare iPhone with android phone with similiar antutu benchmark result",
 
-"HW2" => "K iPhonu je pribalené externé príslušentvo ako nabíjačka(samozrejme) slúchatká, nálapeky, spinka na otvorenie sim tray-u a mnoho dalších malých vecí.",
+"HW2" => "Packaged with the iPhone there is external accessories like charger(ofcourse), headphones, stickers, pin for sim tray and many more small things.",
 
 "SWH1" => "Operačný systém, ťažná sila iPhonov",
 

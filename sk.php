@@ -29,7 +29,7 @@ iPhone s androidom s rovnakým antutu benchmark výsledkom.",
             čo sa mení a najviac pribúda - ikony. Napríklad ikona nastavenia zvuku sa dočkala
             zmeny a není cez celú obrazovku no zaberá iba malú časť na boku.",
 
-"SW2" => "  Existuje veľké rozbroje medzi androidom a iOSom, android sa dá viacej
+"SW2" => " Existuje veľké rozbroje medzi androidom a iOSom, android sa dá viacej
             prispôsobovať, človek si môže stiahnuť aplikácie ktoré nie sú v app obchode no mne
             samotnému vyhovuje pohodlnosť iOS, jednoduché intuitívne ovládanie a nie som
             zahltený množstvom malých funkcii ktoré využijem iba raz. Taktiež je najväčšiou
