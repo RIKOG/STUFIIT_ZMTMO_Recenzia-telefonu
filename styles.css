@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat',
+  Verdana;
+}
+h1, h2, h3, h4 {
+  color: black;
+}
+p {
+  line-height: 1.5;
+  width: 80%;
+  padding: 10px;
+  margin: 20px auto;
+  background: black;
+  color: white;
+  text-align: center;
+}
+table {
+  margin: auto;
+}
+#hlavicka {
+  background-color: black;
+  height: 100px;
+  line-height: 100px;
+}
+#hlavicka a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+#hlavicka a:hover {
+color: #B22222;
+}
+#hlavicka-nadpis {
+  display: block;
+  float: left;
+  font-size: 20px;
+  font-weight: bold;
+}
+#hlavicka-nav {
+  display: block;
+  float: right;
+  margin-top: 0;
+  margin-right: 70px;
+}
+#hlavicka-nav li {
+  display: inline;
+  padding-left: 20px;
+}
+.container {
+  margin: 0 auto;
+}
+.container2 {
+  background: rgba(0,0,0,0.5);
+  width: 50%;
+  display: block;
+  border-radius: 100px 100px 100px 100px;
+  padding: 40px;
+  margin: 50px auto;
+}
+.container3 {
+  width: 50%;
+}
+* {
+  box-sizing: border-box;
+}
+
+
+
+.formular {
+  border-radius: 5px;
+  background-color: black;
+  padding: 20px;
+}
+.table {
+  border: 1px solid purple;
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 4px;
+}
+.zadanie {
+  background: black;
+  color: white;
+  text-align: center;
+}
+

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64e3feb1-f716-40c7-a7e1-d0f468ad4662" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1U7Gtn9oOuc8xuaxfnQtaH1HvdI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64e3feb1-f716-40c7-a7e1-d0f468ad4662" name="Default Changelist" comment="" />
+      <created>1574700436753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574700436753</updated>
+      <workItem from="1574700437955" duration="2134000" />
+      <workItem from="1574759455977" duration="2861000" />
+      <workItem from="1575213366071" duration="3455000" />
+      <workItem from="1575238112153" duration="133000" />
+      <workItem from="1575283179732" duration="190000" />
+      <workItem from="1575298142234" duration="6390000" />
+      <workItem from="1575319169515" duration="4768000" />
+      <workItem from="1575324745372" duration="77000" />
+      <workItem from="1575324943514" duration="73000" />
+      <workItem from="1575362039510" duration="1646000" />
+      <workItem from="1575363708616" duration="1497000" />
+      <workItem from="1575373684451" duration="7485000" />
+      <workItem from="1575455672190" duration="772000" />
+      <workItem from="1575547836837" duration="1430000" />
+      <workItem from="1575550999901" duration="1845000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
