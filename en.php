@@ -17,59 +17,54 @@ $lang = array(
 
 "HW2" => "Packaged with the iPhone there is external accessories like charger(ofcourse), headphones, stickers, pin for sim tray and many more small things.",
 
-"SWH1" => "Operačný systém, ťažná sila iPhonov",
+"SWH1" => "Operation system, the powerhouse of iPhone",
 
-"SW1" => "6S má podporu Applu aj po rokoch od uvedenia na trh. Práve nedávno vyšiel
-            najnovší operačný systém IOS13 ktorý priniesol novinky ako darkmode, vyšší výkon,
-            menej miesta zabraného samotným operačným systémom, kopu malých zmien a to
-            čo sa mení a najviac pribúda - ikony. Napríklad ikona nastavenia zvuku sa dočkala
-            zmeny a není cez celú obrazovku no zaberá iba malú časť na boku.",
+"SW1" => "6S has constant updates years after release. Recently new iOS13 came out that is
+          also available on iphone6S, with new features like darkmode, higher performance,
+          less storage taken up by OS, a number of small but needed changes like sound icon
+          being in the middle of the screen.",
 
-"SW2" => "  Existuje veľké rozbroje medzi androidom a iOSom, android sa dá viacej
-            prispôsobovať, človek si môže stiahnuť aplikácie ktoré nie sú v app obchode no mne
-            samotnému vyhovuje pohodlnosť iOS, jednoduché intuitívne ovládanie a nie som
-            zahltený množstvom malých funkcii ktoré využijem iba raz. Taktiež je najväčšiou
-            výhodou že jednotlivé aplikácie bežia vo svojom vlastnom „sandboxe“ a nemôžu
-            nejako zásadne interaktovať so systémom, dalšími aplikáciami alebo súbormi ktoré
-            aplikácii nenáležia, z toho dôvodu je veľmi ťažké sa do iOS nabúrať.",
+"SW2" => "There is rivalry between iphone users and android users. They are saying android is
+          more customizable but i dont want small thing that i will use only once. What i like
+          about iOS is its intuitive usage, its simple and clean. The biggest advantage is
+          security due to every aplication being locked up in ther own „sandbox“ unable to
+          interact with other apps, control system or change files that dont belong to the
+          aplication. Due to this its really hard to break into iOS.
+",
 
-"Rozhr1" => "3D-touch <br><br>Využívanie senoru snímania tlaku vyvinutého na obrazovku vďaka ktorej
-               klasická interakcia stlačenie alebo držanie je rozšírená aj o náhľad alebo otvorenie podľa sily stlačenia displeju.",
+"Rozhr1" => "3D-touch <br><br>Pressure sensitive sensor that monitores the amount of pressure put on the surface of display
+  thanks to which we have added functionality in iOS interface.",
 
-"Rozhr2" => "Airdrop <br><br> Okamžité vymenanie obrázkov s ďalšími majitelmi iPhonov kde není
-               treba propojenie k internetu.",
+"Rozhr2" => "Exchange of pictures with other iOS users without the need of internet.",
 
-"Rozhr3" => "iCloud <br><br> Cloudové uložisko pre majiteľov Apple zariadení, 5GB zadarmo a za 1€
-               100GB uložiska všetkých multimedii ako fotky videá a aplikácie. Synchronizácia
-               prebieha nepozorovane a prístup do iCloudu je z akéhokoľvek zariadenia. Môžem si
-               prezerať fotky ktoré mám v telefóne z internetového prehliadači na mojom desktope
-               a nemusím si ich všemožne preposielať.",
+"Rozhr3" => "iCloud <br><br> Cloud for the owners of iphone has 5GB of space for free and for aditional 1€ a
+                             month you can have up to 100GB. Iphone automatically synchronizes with iCloud
+                             without the user even realizing, these photos and videos are then accesible from
+                             somewhere else too, like from my desktop without the need of taking my phone out
+                             of pocket.",
 
-"Rozhr4" => "Prepojenie s Applewatch – Apple vytvoril nádheru symbiozu so svojimi
-               dalšími produktami a ja osobne najviac využívam tú s Applewatch ktoré merajú môj
-               výdaj kalorii, dýchanie tep a hlavne spánok, kde si môžem pozrieť kedy v noci som
-               sa budil alebo hýbal.",
+"Rozhr4" => "Connection with AppleWatch <br><br> The apple symbiosis with applewatch makes my life easier with monitoring my daily
+                                          calories, breathing heart rate and my sleep. It tracks when i moved at night, when im
+                                          in deepsleep etc.",
 
-"Rozhr5" => "Appstore <br><br> Miesto získvania všetkých aplikácii pre mobilný telefón. Jeho
-               najväčšou výhodou je kontrola zdrojových kódov zo strany Applu aby si užívateľ
-               nemohol stiahnuť škodlivý kód.",
+"Rozhr5" => "Appstore <br><br>The place to get your apps! The biggest advantage compare to the appstore on
+                              android is that Apple monitor severy source code and denies viruses so you can be
+                              sure you dont download one.",
 
-"Rozhr6" => "iMessages <br><br> SMSkovanie cez internet namiesto operátora, šetrí peniaze.",
+"Rozhr6" => "iMessages <br><br> You can send messages without paying for it.(Apart for paying for the internet
+                                ofcouse!)",
 
-"Rozhr7" => "Livephotos <br><br> Namiesto odfotenia klasickej fotky urobí aj automaticky krátke
-               video do momentu odfotenia čím zlepšuje zážitok zo samotnej fotky.",
+"Rozhr7" => "Livephotos <br><br> Also makes a 2 second video with the photo. Makes the experience better and it
+                                 does it automatically.",
 
-"Rozhr8" => " Livephotos<BR><BR>
-              Namiesto odfotenia klasickej fotky urobí aj automaticky krátke video do momentu odfotenia čím zlepšuje zážitok zo samotnej fotky.",
+//
 
-"test1" => "Telefon si už momentálne s cenovkou 280€ hravo poradí s Androidami v rovnakej cenovej kategorií.",
+"test1" => "The phone with the pricetag of 280€ is fully capable taking care of the same Android phones in the same price range.",
 
-"videa1" => "Nasledujúca ukážka zobrazuje použitie funkcie applepay ktorá kompletne nahrádza platobnú kartu.",
+"videa1" => "The next presentation shows the usage of function applepay which completely replaces debit cards.",
 
-"videa1" => "Tu si môžete vypočuť klasické zvonenie iPhonu.",
+"videa2" => "Here you can listen to the iPhone classics.",
 
-"KontaktH1" => "<h1><center>Moje meno je Richard Gajdošík a toto je blog o mojom telefone.</center></h1>",
-
-"KontaktH2" => "<h2><center>Email: Rich.gajdosik@gmail.com</center></h2>",
+"KontaktH1" => "My name is Richard Gajdošík and this is my blog about my phone.",
 );
 ?>

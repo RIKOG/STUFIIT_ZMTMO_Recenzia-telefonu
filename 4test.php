@@ -9,8 +9,7 @@
 <body background="/images/pozadie.jpg">
 <?php include 'header_inc.php'; ?>
   <p>
-    Telefon si už momentálne s cenovkou 280€ hravo poradí s Androidami v rovnakej cenovej kategorií.
-    <?php echo $lang['testujem'] ?>
+  <?php echo $lang["test1"] ?>
   </p>
   <table><tr>
     <td align="center"><IMG SRC="/images/ANTUTU420.png" width="50%"></td>

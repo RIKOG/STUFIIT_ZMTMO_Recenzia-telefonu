@@ -1,6 +1,5 @@
 <?php include 'init.php'; ?>
-
-
+<?php include $_SESSION['lang'] == 'sk' ? 'sk.php' : 'en.php'; ?>
 <html>
  <head>
    <title>Projekt telefon</title>
@@ -10,7 +9,7 @@
  </head>
 <body background="/images/pozadie.jpg">
 <?php include 'header_inc.php'; ?>
-  <h1><center>Moje meno je Richard Gajdošík a toto je blog o mojom telefone.</center></h1>
+  <h1><center><?php echo $lang["KontaktH1"] ?></center></h1>
   <h2><center>Email: Rich.gajdosik@gmail.com</center></h2>
   <table>
     <tr>

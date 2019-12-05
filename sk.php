@@ -51,7 +51,7 @@ iPhone s androidom s rovnakým antutu benchmark výsledkom.",
                prezerať fotky ktoré mám v telefóne z internetového prehliadači na mojom desktope
                a nemusím si ich všemožne preposielať.",
 
-"Rozhr4" => "Prepojenie s Applewatch – Apple vytvoril nádheru symbiozu so svojimi
+"Rozhr4" => "Prepojenie s Applewatch <br><br> Apple vytvoril nádheru symbiozu so svojimi
                dalšími produktami a ja osobne najviac využívam tú s Applewatch ktoré merajú môj
                výdaj kalorii, dýchanie tep a hlavne spánok, kde si môžem pozrieť kedy v noci som
                sa budil alebo hýbal.",
@@ -65,8 +65,6 @@ iPhone s androidom s rovnakým antutu benchmark výsledkom.",
 "Rozhr7" => "Livephotos <br><br> Namiesto odfotenia klasickej fotky urobí aj automaticky krátke
                video do momentu odfotenia čím zlepšuje zážitok zo samotnej fotky.",
 
-"Rozhr8" => " Livephotos<BR><BR>
-              Namiesto odfotenia klasickej fotky urobí aj automaticky krátke video do momentu odfotenia čím zlepšuje zážitok zo samotnej fotky.",
 
               //
 
@@ -76,13 +74,10 @@ iPhone s androidom s rovnakým antutu benchmark výsledkom.",
 
 "videa1" => "Nasledujúca ukážka zobrazuje použitie funkcie applepay ktorá kompletne nahrádza platobnú kartu.",
 
-"videa1" => "Tu si môžete vypočuť klasické zvonenie iPhonu.",
+"videa2" => "Tu si môžete vypočuť klasické zvonenie iPhonu.",
 
 //
 
-"KontaktH1" => "<h1><center>Moje meno je Richard Gajdošík a toto je blog o mojom telefone.</center></h1>",
-
-"KontaktH2" => "<h2><center>Email: Rich.gajdosik@gmail.com</center></h2>",
-
+"KontaktH1" => "Moje meno je Richard Gajdošík a toto je blog o mojom telefone.</center></h1>",
 );
 ?>

@@ -9,7 +9,8 @@
  </head>
 <body background="/images/pozadie.jpg">
 <?php include 'header_inc.php'; ?>
-<p>Nasledujúca ukážka zobrazuje použitie funkcie applepay ktorá kompletne nahrádza platobnú kartu.</p>
+<p>
+<?php echo $lang["videa1"] ?></p>
   <table><tr>
     <td><video width="375" height="667" autoplay controls>
       <source src="/images/video1.mp4" type="video/mp4">
@@ -23,7 +24,9 @@
     </td>
   </tr></table>
 
-<p>Tu si môžete vypočuť klasické zvonenie iPhonu.</p>
+<p>
+<?php echo $lang["videa2"] ?>
+</p>
   <center>
   <audio controls>
     <source src="/images/ALARM.mp3" type="audio/mpeg">
