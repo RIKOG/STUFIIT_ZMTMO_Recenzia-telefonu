@@ -1,22 +1,19 @@
- <!-- PISANIE KOMENTU A FORMA -->
-
+ <!-- PISANIE KOMENTU -->
 
     <div class="clear"></div>
 
-    <!-- COMMENT FORM -->
+    <!-- komentárová forma -->
     <form name="input" method="post" action="skript.php">
-
-    <input type="text" class="comment-name" name="name" id="name" placeholder="Your Name">
-    <input type="text" class="comment-email" name="email" id="email" placeholder="Email Address">
-    <textarea name="comment" id="comment" placeholder="What's Your Question or Comment?"><?php echo $comment ?></textarea>
-    <input class="button" type="submit" name="submit" value="Ask A Question &middot; Comment">
+    <input type="text" class="comment-name" name="name" id="name" placeholder="Vaše Meno">
+    <input type="text" class="comment-email" name="email" id="email" placeholder="Emailová adresa">
+    <textarea name="comment" id="comment" placeholder="Tu mi môžete zanechať Váš komentár."><?php echo $comment ?></textarea>
+    <input class="button" type="submit" name="submit" value="Spýtať">
     </form>
 
     <div class="clear"></div>
 
     <!-- DISPLAY COMMENTS -->
     <?php
-
     $file = fopen("C:/WinNMP/WWW/Projekt.ZMTMO/comments.txt", "r");
 
     // WRITE EACH COMMENT
@@ -28,5 +25,4 @@
         }
     }
     fclose($file);
-
     ?>
