@@ -18,6 +18,9 @@
           <td align="center"><img src="/images/LOCKSCREEN.jpg" width="80%"></td>
           <td align="center"><img src="/images/MENU.jpg" width="80%"></td>
           <td align="center"><img src="/images/NALAVONIECO.jpg" width="80%"></td>
+          <?php
+          require_once 'poleobrazkov.php';
+          ?>
       </tr>
   </table>
   <p>

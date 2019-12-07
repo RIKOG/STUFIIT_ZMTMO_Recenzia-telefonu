@@ -1,4 +1,4 @@
- <!-- ADD COMMENT -->
+ <!-- PISANIE KOMENTU A FORMA -->
 
 
     <div class="clear"></div>
