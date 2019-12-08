@@ -1,5 +1,4 @@
 <?php include 'duplicity.php'; ?>
-
   <h1><center><?= $_SESSION['lang'] == 'sk' ? 'Základné informácie' : 'Basic info' ?></center></h1>
   <p>
   <?php echo $lang["H1_informacie"]?>
@@ -28,5 +27,4 @@
       ?>
       </tr>
   </table>
-
 </body>

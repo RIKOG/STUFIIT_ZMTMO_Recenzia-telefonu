@@ -1,15 +1,4 @@
-<?php include 'init.php'; ?>
-<?php include $_SESSION['lang'] == 'sk' ? 'sk.php' : 'en.php'; ?>
-<?php include 'poleobrazkov.php'; ?>
-<html>
- <head>
-   <title>Projekt telefon</title>
-   <link rel="stylesheet"
-   type="text/css" href="styles.css">
-   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
- </head>
-<body background="/images/pozadie.jpg">
-<?php include 'header_inc.php'; ?>
+<?php include 'duplicity.php'; ?>
   <h1><center><?php echo $lang["KontaktH1"] ?></center></h1>
   <h2><center>Email: Rich.gajdosik@gmail.com</center></h2>
   <table>
@@ -19,6 +8,7 @@
         ?>
     </tr>
   </table>
+
 <?php include 'komentar.php'; ?>
 <?php include 'komentare.php'; ?>
 
