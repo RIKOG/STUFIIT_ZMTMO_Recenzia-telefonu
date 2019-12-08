@@ -14,7 +14,9 @@
   <h2><center>Email: Rich.gajdosik@gmail.com</center></h2>
   <table>
     <tr>
-      <td align="center"><img src="/images/LOGOFINAL.svg" width="100%"></td>
+        <?php
+            get_images_from_directory('imagesKontakt', "td", array('100%'));
+        ?>
     </tr>
   </table>
 <?php include 'komentar.php'; ?>

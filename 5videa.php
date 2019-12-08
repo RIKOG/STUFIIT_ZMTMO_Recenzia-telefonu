@@ -14,12 +14,12 @@
 <?php echo $lang["videa1"] ?></p>
   <table><tr>
     <td><video width="375" height="667" autoplay controls>
-      <source src="/images/video1.mp4" type="video/mp4">
+      <source src="/imagesVideo/video1.mp4" type="video/mp4">
       Tvoj prehliadač nepodporuje HTML5 spúšťanie videi.
     </video>
     </td>
     <td><video width="375" height="667" autoplay controls>
-      <source src="/images/video.mp4" type="video/mp4">
+      <source src="/imagesVideo/video.mp4" type="video/mp4">
       Tvoj prehliadač nepodporuje HTML5 spúšťanie videi.
     </video>
     </td>
@@ -30,15 +30,15 @@
 </p>
   <center>
   <audio controls>
-    <source src="/images/ALARM.mp3" type="audio/mpeg">
+    <source src="/imagesVideo/ALARM.mp3" type="audio/mpeg">
     Tvoj prehliadač nepodporuje HTML5 spúšťanie audia.
   </audio>
   <audio controls>
-    <source src="/images/ALARM1.mp3" type="audio/mpeg">
+    <source src="/imagesVideo/ALARM1.mp3" type="audio/mpeg">
     Tvoj prehliadač nepodporuje HTML5 spúšťanie audia.
   </audio>
   <audio controls>
-    <source src="/images/RINGTONE.mp3" type="audio/mpeg">
+    <source src="/imagesVideo/RINGTONE.mp3" type="audio/mpeg">
     Tvoj prehliadač nepodporuje HTML5 spúšťanie audia.
   </audio>
   </center>

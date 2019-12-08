@@ -1,5 +1,6 @@
 <?php include 'init.php'; ?>
 <?php include $_SESSION['lang'] == 'sk' ? 'sk.php' : 'en.php'; ?>
+<?php include 'poleobrazkov.php'; ?>
  <head>
    <title>Projekt telefon</title>
    <link rel="stylesheet"
@@ -12,7 +13,10 @@
   <?php echo $lang["test1"] ?>
   </p>
   <table><tr>
-    <td align="center"><IMG SRC="/images/ANTUTU420.png" width="50%"></td>
+            <?php
+                get_images_from_directory('imagesTest', "td", array('50%'));
+            ?>
+
   </tr>
   </table>
   <table class="table">
@@ -22,7 +26,7 @@
     </tr>
     <tr class="table">
       <td class="table">OSTATNI  --></td>
-      <td class="table">GARBAGE</td>
+      <td class="table">NOT THE BEST</td>
     </tr>
   </table>
 
