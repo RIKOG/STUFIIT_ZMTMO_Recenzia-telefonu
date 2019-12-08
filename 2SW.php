@@ -1,5 +1,6 @@
 <?php include 'init.php'; ?>
 <?php include $_SESSION['lang'] == 'sk' ? 'sk.php' : 'en.php'; ?>
+<?php include 'poleobrazkov.php'; ?>
 <html>
  <head>
    <title>Projekt telefon</title>
@@ -15,16 +16,18 @@
 
   <table>
       <tr>
-          <td align="center"><img src="/images/APPSTORE.jpg" width="80%"></td>
-          <td align="center"><img src="/images/CONTACTS.jpg" width="80%"></td>
-          <td align="center"><img src="/images/FITNESS.jpg" width="80%"></td>
-      </tr></table>
+      <?php
+          get_images_from_directory('imagesSW1', "td", array('80%','80%','80%'));
+      ?>
+      </tr>
+      </table>
 
  <p><?php echo $lang["SW1"] ?></p>
 
   <table><tr>
-      <td align="center"><img src="/images/PHOTOAPP.jpg" width="80%"></td>
-      <td align="center"><img src="/images/SHAREAPP.jpg" width="80%"></td>
+        <?php
+            get_images_from_directory('imagesSW2', "td", array('80%','80%'));
+        ?>
   </tr> </table>
 
   <p><?php echo $lang["SW2"] ?></p>

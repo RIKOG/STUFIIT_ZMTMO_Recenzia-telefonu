@@ -1,5 +1,6 @@
 <?php include 'init.php'; ?>
 <?php include $_SESSION['lang'] == 'sk' ? 'sk.php' : 'en.php'; ?>
+<?php include 'poleobrazkov.php'; ?>
 <html>
  <head>
    <title>Projekt telefon</title>

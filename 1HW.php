@@ -1,5 +1,6 @@
 <?php include 'init.php'; ?>
 <?php include $_SESSION['lang'] == 'sk' ? 'sk.php' : 'en.php'; ?>
+<?php include 'poleobrazkov.php'; ?>
 <html>
  <head>
    <title>Projekt telefon</title>
@@ -47,7 +48,10 @@
   </p>
   <table>
     <tr>
-      <td align="center"><img src="/images/PRISLUSENSTVO.jpg" width="100%"></td>
-    </tr></table>
+    <?php
+        get_images_from_directory('imagesHW', "td", array('80%'));
+    ?>
+    </tr>
+    </table>
 </body>
 </html>

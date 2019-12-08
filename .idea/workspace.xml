@@ -3,6 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="64e3feb1-f716-40c7-a7e1-d0f468ad4662" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0informacie.php" beforeDir="false" afterPath="$PROJECT_DIR$/0informacie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1HW.php" beforeDir="false" afterPath="$PROJECT_DIR$/1HW.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2SW.php" beforeDir="false" afterPath="$PROJECT_DIR$/2SW.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Rozhranie.php" beforeDir="false" afterPath="$PROJECT_DIR$/3Rozhranie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5videa.php" beforeDir="false" afterPath="$PROJECT_DIR$/5videa.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6kontakt.php" beforeDir="false" afterPath="$PROJECT_DIR$/6kontakt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesInformacie/LOCKSCREEN.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesInformacie/MAPY.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesInformacie/MENU.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesInformacie/NALAVONIECO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesInformacie/NOTES.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesInformacie/PRAHA 3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesInformacie/PRAHA1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesInformacie/PRAHA2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesSW/APPSTORE.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesSW/CONTACTS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesSW/FITNESS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesSW/PHOTOAPP.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesSW/SHAREAPP.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +81,8 @@
       <workItem from="1575550999901" duration="1845000" />
       <workItem from="1575557922127" duration="3502000" />
       <workItem from="1575561867152" duration="5635000" />
-      <workItem from="1575715893440" duration="10330000" />
+      <workItem from="1575715893440" duration="10677000" />
+      <workItem from="1575812148988" duration="1036000" />
     </task>
     <servers />
   </component>

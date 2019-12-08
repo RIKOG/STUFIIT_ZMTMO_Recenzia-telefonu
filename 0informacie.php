@@ -17,8 +17,8 @@
   <table>
       <tr>
       <?php
-          get_images_from_directory('imagesInformacie', "td", array('80%', '80%', '80%','80%', '80%', '80%','80%', '80%'));
-                ?>
+          get_images_from_directory('imagesInformacie1', "td", array('80%', '80%', '80%'));
+      ?>
       </tr>
   </table>
   <p>
@@ -26,15 +26,16 @@
   </p>
   <table>
       <tr>
-          <td align="center"><img src="/images/NOTES.jpg" width="80%"></td>
-          <td align="center"><img src="/images/MAPY.jpg" width="61.5%"></td>
+      <?php
+          get_images_from_directory('imagesInformacie2', "td", array('80%', '61.5%'));
+      ?>
       </tr>
   </table>
   <table>
       <tr>
-          <td align="center"><img src="/images/PRAHA1.jpg" width="100%"></td>
-          <td align="center"><img src="/images/PRAHA2.jpg" width="100%"></td>
-          <td align="center"><img src="/images/PRAHA 3.jpg" width="100%"></td>
+      <?php
+          get_images_from_directory('imagesInformacie3', "td", array('100%', '100%', '100%'));
+      ?>
       </tr>
   </table>
 
