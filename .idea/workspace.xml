@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e3feb1-f716-40c7-a7e1-d0f468ad4662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GIF/GIFPRAHA1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GIF/GIFPRAHA2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagesKontakt/LOGOFINAL.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicity.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Rozhranie.php" beforeDir="false" afterPath="$PROJECT_DIR$/3Rozhranie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4test.php" beforeDir="false" afterPath="$PROJECT_DIR$/4test.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5videa.php" beforeDir="false" afterPath="$PROJECT_DIR$/5videa.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6kontakt.php" beforeDir="false" afterPath="$PROJECT_DIR$/6kontakt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/LOGOFINAL.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesRozhranie/GIFPRAHA1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesRozhranie/GIFPRAHA2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0informacie.php" beforeDir="false" afterPath="$PROJECT_DIR$/0informacie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/_index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +69,7 @@
       <workItem from="1575557922127" duration="3502000" />
       <workItem from="1575561867152" duration="5635000" />
       <workItem from="1575715893440" duration="10677000" />
-      <workItem from="1575812148988" duration="2116000" />
+      <workItem from="1575812148988" duration="2631000" />
     </task>
     <servers />
   </component>
