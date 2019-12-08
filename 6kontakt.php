@@ -8,10 +8,7 @@
         ?>
     </tr>
   </table>
-
 <?php include 'komentar.php'; ?>
-<?php include 'komentare.php'; ?>
-
 </body>
 </html>
 <!-- <p>

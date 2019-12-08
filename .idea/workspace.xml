@@ -2,76 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e3feb1-f716-40c7-a7e1-d0f468ad4662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/GIF/GIFPRAHA1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GIF/GIFPRAHA2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesHW/PRISLUSENSTVO.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesInformacie1/LOCKSCREEN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesInformacie1/MENU.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesInformacie1/NALAVONIECO.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesInformacie2/1NOTES.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesInformacie2/MAPY.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesInformacie3/1PRAHA1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesInformacie3/2PRAHA2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesInformacie3/3PRAHA 3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesKontakt/LOGOFINAL.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesRozhranie/3DTOUCH.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesRozhranie/AIRDROP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesRozhranie/APPSTORE2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesRozhranie/HODINKY.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesRozhranie/ICLOUD.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesRozhranie/MESSAGES.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesSW1/APPSTORE.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesSW1/CONTACTS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesSW1/FITNESS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesSW2/PHOTOAPP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesSW2/SHAREAPP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesTest/ANTUTU420.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesVideo/ALARM.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesVideo/ALARM1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesVideo/RINGTONE.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesVideo/VIDEO1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/imagesVideo/video.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/poleobrazkov.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0informacie.php" beforeDir="false" afterPath="$PROJECT_DIR$/0informacie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1HW.php" beforeDir="false" afterPath="$PROJECT_DIR$/1HW.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2SW.php" beforeDir="false" afterPath="$PROJECT_DIR$/2SW.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Rozhranie.php" beforeDir="false" afterPath="$PROJECT_DIR$/3Rozhranie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4test.php" beforeDir="false" afterPath="$PROJECT_DIR$/4test.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5videa.php" beforeDir="false" afterPath="$PROJECT_DIR$/5videa.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/6kontakt.php" beforeDir="false" afterPath="$PROJECT_DIR$/6kontakt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIF/GIFPRAHA1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIF/GIFPRAHA2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/_index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/duplicity.php" beforeDir="false" afterPath="$PROJECT_DIR$/duplicity.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesHW/PRISLUSENSTVO.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesInformacie1/LOCKSCREEN.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesInformacie1/MENU.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesInformacie1/NALAVONIECO.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesInformacie2/1NOTES.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesInformacie2/MAPY.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesInformacie3/1PRAHA1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesInformacie3/2PRAHA2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesInformacie3/3PRAHA 3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesKontakt/LOGOFINAL.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesRozhranie/3DTOUCH.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesRozhranie/AIRDROP.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesRozhranie/APPSTORE2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesRozhranie/HODINKY.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesRozhranie/ICLOUD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesRozhranie/MESSAGES.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesSW1/APPSTORE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesSW1/CONTACTS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesSW1/FITNESS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesSW2/PHOTOAPP.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesSW2/SHAREAPP.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesTest/ANTUTU420.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesVideo/ALARM.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesVideo/ALARM1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesVideo/RINGTONE.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesVideo/VIDEO1.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagesVideo/video.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/poleobrazkov.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/comments.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/komentar.php" beforeDir="false" afterPath="$PROJECT_DIR$/komentar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skript.php" beforeDir="false" afterPath="$PROJECT_DIR$/skript.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +70,7 @@
       <workItem from="1575557922127" duration="3502000" />
       <workItem from="1575561867152" duration="5635000" />
       <workItem from="1575715893440" duration="10677000" />
-      <workItem from="1575812148988" duration="4064000" />
+      <workItem from="1575812148988" duration="7465000" />
     </task>
     <servers />
   </component>
